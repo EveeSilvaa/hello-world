@@ -1,2 +1,3 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub :)
+# hello-world: Baú com componentes e outras coisas que acho interessante ;)
+
+Este repositório é para ajudar a todos nos estudos em programação!!
