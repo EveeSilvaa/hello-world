@@ -36,7 +36,7 @@ function App() {
         </button>
       </div>
       <Popup isVisible={isPopupVisible} onClose={closePopup}>
-        <h1>Criei um popup para minha caixa de ferramentas, oba!</h1>
+        <h1>Criei um popup para minha caixa de estudos, oba!</h1>
         <p>Pouco a pouco, povoaremos essa caixinha :D</p>
       </Popup>
       <img src={imageSrc} className="image" alt="Tool Box" />
